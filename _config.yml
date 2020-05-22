@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Luk Gyzynsky
+bio: A Man who eats Zapiekanki
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -50,21 +50,21 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: LukGyzynsky@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Luk Gyzynsky
+    bio: I Love Zapiekanki
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: GyzynskyLuk
   jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+    name: Luk Gyzynsky
+    bio: A Man who explore the data with coffee
     external-image: false
     picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: GyzynskyLuk
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

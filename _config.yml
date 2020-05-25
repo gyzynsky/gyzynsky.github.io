@@ -1,5 +1,5 @@
 # main text of home
-name: Łukasz Giziński
+name: Lukasz Gizinski
 bio: A Man who eats Zapiekanki
 
 # twitter summary info
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://gyzynsky.github.io/indigo
+url: https://gyzynsky.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -54,13 +54,13 @@ email: LukGyzynsky@gmail.com
 
 authors:
   johndoe:
-    name: Łukasz Giziński
+    name: Lukasz Gizinski
     bio: I Love Zapiekanki
     external-image: false
     picture: assets/images/profile.jpg
     twitter: GyzynskyLuk
   jamesfoster:
-    name: Łukasz Giziński
+    name: Lukasz Gizinski
     bio: A Man who explore the data with coffee
     external-image: false
     picture: assets/images/james.jpg

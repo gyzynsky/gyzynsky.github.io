@@ -56,14 +56,14 @@ authors:
   johndoe:
     name: Lukasz Gizinski
     bio: I Love Zapiekanki
-    external-image: false
+    external-image: true
     picture: assets/images/profile.jpg
     twitter: GyzynskyLuk
   jamesfoster:
     name: Lukasz Gizinski
     bio: A Man who explore the data with coffee
-    external-image: false
-    picture: assets/images/james.jpg
+    external-image: true
+    picture: assets/images/prfile.jpg
     twitter: GyzynskyLuk
 
 # do you want a larger site? change the option below
